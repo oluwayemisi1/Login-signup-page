@@ -21,7 +21,7 @@ A sleek, responsive, and fully client-side **Login/Signup interface** built with
 
 > preview screenshots
 
-![Login Screenshot](./src/Components/Assets/LoginSignup-page.png)
+![Login Screenshot](https://github.com/oluwayemisi1/Login-signup-page/blob/main/Login_app/src/Components/Assets/LoginSignup-page.PNG)
 <!-- ![Signup Screenshot](./src/Components/Assets/signup-preview.png) -->
 
 ---
