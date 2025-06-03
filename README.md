@@ -19,7 +19,7 @@ A sleek, responsive, and fully client-side **Login/Signup interface** built with
 
 ## 🖼️ Preview
 
-> Add preview screenshots or a short demo gif here
+> preview screenshots
 
 ![Login Screenshot](./src/Components/Assets/LoginSignup-page.png)
 <!-- ![Signup Screenshot](./src/Components/Assets/signup-preview.png) -->
